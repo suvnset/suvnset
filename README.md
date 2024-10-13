@@ -11,7 +11,7 @@ I'm always on the hunt for new knowledge to refine my game development skills. R
 - C++/C# for real-time game mechanics.
 - Algorithms and Data Structures to optimize game performance and AI behavior.
 - Game Design and Production—I love bringing both technical and creative elements together to craft compelling narratives and engaging gameplay.
-My coursework in interactive entertainment, software development, and game programming has been pivotal in my growth as a developer. I'm also diving deep into version control (hello, GitHub!) and using industry-standard tools like Unity3D, VS Code, and Eclipse to bring my ideas to life.
+My coursework in interactive entertainment, software development, and game programming has been pivotal in my growth as a developer. I'm also diving deep into version control (hello, GitHub!) and using industry-standard tools like Unity2-/3D, VS Code, and Eclipse to bring my ideas to life.
 
 ## 👯 I’m Looking to Collaborate On:
 I thrive in creative, collaborative environments and am always excited to work on projects that:
@@ -25,7 +25,7 @@ I’m eager to expand my knowledge in site reliability engineering and backend t
 
 ## 💬 Ask Me About:
 - Game development (especially in Unity, C++, and C#).
-- My experience leading the AAPI in Entertainment initiative, where I organized monthly events to celebrate the intersection of video games and Asian American culture.
+- My experience leading the AAPI in Entertainment initiative, where I organized monthly events to celebrate the intersection of entertainment (particularly video games) and Asian American culture.
 - How to design a game with engaging mechanics and deep player interaction.
 
 ## 📫 How to Reach Me:
