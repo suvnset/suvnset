@@ -38,7 +38,7 @@ If you'd like to discuss potential collaborations, game development, or just ner
 He/Him
 
 ## ⚡ Fun Fact:
-When I was a kid, my brother and I bonded over playing Pokémon on the PSP (yes, I know it wasn’t a Pokémon console, but we made it work!). That childhood bond over games is what ignited my dream of one day working in the game development industry. Today, I’m channeling that same energy into building games that inspire joy, imagination, and adventure—just like the ones that shaped my childhood.
+When I was a kid, my brother and I bonded over playing Pokémon on the Gamebody Advance and DS. That childhood bond over games is what ignited my dream of one day working in the game development industry. Today, I’m channeling that same energy into building games that inspire joy, imagination, and adventure—just like the ones that shaped my childhood.
 
 Let's create worlds where players can lose themselves, stories that resonate, and mechanics that challenge. If you're interested in game development, whether you’re an artist, sound designer, or fellow programmer, I’d love to connect and collaborate!
 
