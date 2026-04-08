@@ -1,4 +1,4 @@
-# 🎮 Joshua Guico - Creative Technologist, Game Developer, Software Engineer
+# Joshua Guico - Creative Technologist, Game Developer, Software Engineer
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 Creative Technologist Profile
+## Creative Technologist Profile
 
 ```python
 class CreativeTechnologist:
@@ -40,7 +40,7 @@ class CreativeTechnologist:
 me = CreativeTechnologist()
 ```
 
-## 💼 Current Build
+## Current Build
 
 ```javascript
 const currentBuild = {
@@ -48,10 +48,10 @@ const currentBuild = {
     project: "Glorgo's Microplastics Mine",
     team: "USC Advanced Games Project",
     responsibilities: [
-        "🚀 Leading quality assurance pipelines",
-        "🎨 Bridging technical & creative vision", 
-        "🔧 Implementing automated testing systems",
-        "📊 Ensuring player experience quality"
+        "Leading quality assurance pipelines",
+        "Bridging technical & creative vision", 
+        "Implementing automated testing systems",
+        "Ensuring player experience quality"
     ],
     leadership: [
         "President: Makers of Entertaining Games Association",
@@ -63,9 +63,9 @@ const currentBuild = {
 };
 ```
 
-## 🎯 Multi-Dimensional Passion
+## Multi-Dimensional Passion
 
-### 🎮 **Gaming Ecosystem Involvement**
+### **Gaming Ecosystem Involvement**
 ```
 ┌─────────────────┬─────────────────┬─────────────────┐
 │   COMPETITIVE   │    CREATIVE     │    COMMUNITY    │
@@ -76,13 +76,13 @@ const currentBuild = {
 └─────────────────┴─────────────────┴─────────────────┘
 ```
 
-### 📸 **Creative Arsenal**
+### **Creative Arsenal**
 - **Visual Design**: UI/UX, graphic design, composition theory
 - **Photography**: Storytelling through imagery, technical execution  
 - **Game Development**: Technical implementation meets artistic vision
 - **Community Building**: Creating spaces for creators to thrive
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ```yaml
 Game_Development:
@@ -106,9 +106,9 @@ Leadership_Roles:
     - "Director of Media: Academic Culture Assembly"
 ```
 
-## 🌟 Featured Projects & Leadership
+## Featured Projects & Leadership
 
-### 🎨 **Creative Technology Projects**
+### **Creative Technology Projects**
 ```python
 projects = {
     "scythe_of_sidereal": {
@@ -126,7 +126,7 @@ projects = {
 }
 ```
 
-## 📈 Career Compass
+## Career Compass
 
 ```rust
 // My development philosophy
@@ -152,19 +152,19 @@ impl CreativeTechnologist for JoshuaGuico {
 }
 ```
 
-## 🎮 Gaming DNA
+## Gaming DNA
 
-### 🏆 **Competitive Spirit**
+### **Competitive Spirit**
 - **USC Overwatch Team**: Competitive player understanding high-level gameplay
 - **Stream Analysis**: Studying top players and content creators
 - **Player Psychology**: Understanding what makes games engaging and rewarding
 
-### 🎨 **Creative Vision**
+### **Creative Vision**
 - **Photography Background**: Composition, lighting, and visual storytelling
 - **Design Sensibility**: UI/UX that enhances player experience  
 - **Narrative Understanding**: Games as interactive storytelling medium
 
-## 🤝 Collaboration Opportunities
+## Collaboration Opportunities
 
 I'm passionate about projects that exist at the intersection of:
 - **Technology & Art** - Where code enables creativity
@@ -172,7 +172,7 @@ I'm passionate about projects that exist at the intersection of:
 - **Innovation & Execution** - Bold ideas backed by technical excellence
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
+  <h2> Connect with Me</h2>
   <p>Let's connect and collaborate!</p>
 
   | LinkedIn | GitHub | Email | Discord | Instagram |
@@ -184,11 +184,11 @@ I'm passionate about projects that exist at the intersection of:
 
 ```markdown
 When I'm not coding or leading teams, you'll find me:
-- 📸 Capturing moments through my camera lens
-- 🎮 Competing with USC Overwatch or analyzing pro streams  
-- 🎨 Designing visuals that communicate and inspire
-- 👥 Hanging out with the USC Filipino community
-- 🎯 Pushing the boundaries of what games can be
+- Capturing moments through my camera lens
+- Competing with USC Overwatch or analyzing pro streams  
+- Designing visuals that communicate and inspire
+- Hanging out with the USC Filipino community
+- Pushing the boundaries of what games can be
 ```
 
 ---
