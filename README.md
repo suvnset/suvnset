@@ -1,4 +1,4 @@
-# Joshua Guico - Creative Technologist, Game Developer, Software Engineer
+# Joshua Guico - Software Engineer and Game Developer
 
 <div align="center">
 
@@ -180,7 +180,7 @@ I'm passionate about projects that exist at the intersection of:
   | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoshua-guico&subtitle=@joshua-guico&size=square)](https://www.linkedin.com/in/joshua-guico) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fsuvnset&subtitle=%2Fsuvnset&size=square)](https://github.com/suvnset) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=jshguico&size=square)](mailto:jshguico@gmail.com) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F486210659961536514&subtitle=Discord&size=square)](https://discord.com/users/486210659961536514) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fjguicoo%2F&subtitle=@jguicoo&size=square)](https://www.instagram.com/jguicoo/) |
 </div>
 
-## ⚡ Beyond the Code
+## Beyond the Code
 
 ```markdown
 When I'm not coding or leading teams, you'll find me:
