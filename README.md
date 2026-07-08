@@ -1,206 +1,67 @@
-# Joshua Guico - Software Engineer and Game Developer
-
 <div align="center">
 
-*Where code meets creativity - Building immersive experiences through technology and design*
+# Hey, I'm Joshua.
+
+**Software engineer, gameplay programmer, QA engineer, and occasional keeper of very complicated spreadsheets.**
+
+Recent USC Computer Science (Games) graduate  
+Incoming M.S. Computer Science (Game Development) student
+
+[Portfolio](https://suvnset.github.io) | [LinkedIn](https://www.linkedin.com/in/joshua-guico) | [Email](mailto:jshguico@gmail.com)
 
 </div>
 
-## Creative Technologist Profile
+My GitHub is where gameplay systems, QA tools, analytics experiments, and the occasional deeply specific side project end up. I like code that holds up under pressure, tools that make a team less frustrated, and games with enough personality to be remembered.
 
-```python
-class CreativeTechnologist:
-    def __init__(self):
-        self.name = "Joshua Guico"
-        self.role = "Game Developer & QA Lead"
-        self.education = "B.S. Computer Science (Games) @ USC"
-        self.passions = [
-            "Game Development",
-            "Graphic Design", 
-            "Photography",
-            "Competitive Gaming",
-            "Community Building"
-        ]
-    
-    def current_work(self):
-        return {
-            "qa_lead": "Glorgo's Microplastics Mine (USC AGP)",
-            "president": "Makers of Entertaining Games Association",
-            "programmer": "Open Alpha",
-            "athlete": "USC Competitive Overwatch Team"
-        }
-    
-    def skills(self):
-        return {
-            "technical": ["Unity", "C#", "C++", "Python", "Git"],
-            "creative": ["UI/UX Design", "Photography", "Visual Storytelling"],
-            "leadership": ["QA Management", "Team Coordination", "Event Planning"]
-        }
+Some weeks that means debugging a Unity scene. Other weeks, it means improving a playtest process, designing graphics, photographing a show, or writing production notes people can actually use.
 
-me = CreativeTechnologist()
-```
+## What I'm Working On
 
-## Current Build
+- Building **[PlaytestIQ](https://github.com/suvnset/playtestiq)**, a telemetry and analytics platform that helps game teams understand player sessions, repeated failures, progression, and playtest trends.
+- Preparing for an M.S. Computer Science (Game Development) after completing my B.S. in Computer Science (Games) at USC.
+- Continuing to explore gameplay programming, developer tools, game analytics, and the engineering behind reliable creative production.
 
-```javascript
-const currentBuild = {
-    role: "QA Lead",
-    project: "Glorgo's Microplastics Mine",
-    team: "USC Advanced Games Project",
-    responsibilities: [
-        "Leading quality assurance pipelines",
-        "Bridging technical & creative vision", 
-        "Implementing automated testing systems",
-        "Ensuring player experience quality"
-    ],
-    leadership: [
-        "President: Makers of Entertaining Games Association",
-        "Programmer: Open Alpha",
-        "Player: USC Competitive Overwatch Team",
-        "Graphic Designer: USC Esports",
-        "Programming Director: Troy Philippines",
-    ]
-};
-```
+## Selected Work
 
-## Multi-Dimensional Passion
+<p align="center">
+  <a href="https://suvnset.github.io/project.html?project=glorgos-microplastics-mine">
+    <img src="https://suvnset.github.io/assets/glorgo/gmm-cover-landscape.jpg" width="31%" alt="Glorgo's Microplastics Mine">
+  </a>
+  <a href="https://suvnset.github.io/project.html?project=open-your-browser">
+    <img src="https://suvnset.github.io/assets/open-your-browser/oyb-cover-landscape.png" width="31%" alt="Open Your Browser">
+  </a>
+  <a href="https://suvnset.github.io/project.html?project=playtestiq">
+    <img src="https://suvnset.github.io/assets/playtestiq/playtestiq-dashboard-cover.png" width="31%" alt="PlaytestIQ">
+  </a>
+</p>
 
-### **Gaming Ecosystem Involvement**
-```
-┌─────────────────┬─────────────────┬─────────────────┐
-│   COMPETITIVE   │    CREATIVE     │    COMMUNITY    │
-├─────────────────┼─────────────────┼─────────────────┤
-│ USC Overwatch   │ Game Development│ MEGA President  │
-│ Team Player     │ Photography     │ Open Alpha      │
-│ Stream Fanatic  │ Graphic Design  │ Event Organizer │
-└─────────────────┴─────────────────┴─────────────────┘
-```
+| Project | What I Did |
+| --- | --- |
+| **[Glorgo's Microplastics Mine](https://suvnset.github.io/project.html?project=glorgos-microplastics-mine)** | Led QA for a nearly 80-person USC Games team through its Steam release, built a Python Discord bug bot, and worked directly with engineering on reproduction, triage, and fixes. |
+| **[Open Your Browser](https://suvnset.github.io/project.html?project=open-your-browser)** | Programmed Unity systems for the main game loop, RAM pressure, scene flow, and a music-synced cookie rhythm minigame. |
+| **[Neuromancer](https://suvnset.github.io/project.html?project=neuromancer)** | Helped plan and integrate a modular Unity game with dialogue, potion-making, XP, morale, timed days, and branching endings. |
+| **[PlaytestIQ](https://suvnset.github.io/project.html?project=playtestiq)** | Designed a Next.js and PostgreSQL foundation for collecting gameplay events and turning playtest telemetry into useful decisions. |
+| **[PACN: Pamana](https://suvnset.github.io/project.html?project=pacn-pamana)** | Wrote and directed a cultural production while coordinating rehearsals, technical planning, performers, and the handoff from script to stage. |
 
-### **Creative Arsenal**
-- **Visual Design**: UI/UX, graphic design, composition theory
-- **Photography**: Storytelling through imagery, technical execution  
-- **Game Development**: Technical implementation meets artistic vision
-- **Community Building**: Creating spaces for creators to thrive
+## The Toolbox
 
-## Technical Stack
+| Area | Tools and Practice |
+| --- | --- |
+| **Games** | Unity, Unreal Engine, C#, C++, gameplay systems, game AI, UI, scene integration |
+| **Software** | Python, TypeScript, JavaScript, Java, SQL, Next.js, Node.js, PostgreSQL, Prisma |
+| **QA + Production** | Playtesting, regression testing, bug triage, build validation, Jira, Git, Perforce |
+| **Visual Work** | Figma, Adobe Creative Suite, photography, editorial design, esports graphics |
 
-```yaml
-Game_Development:
-  Engines: ["Unity", "Unreal"]
-  Languages: ["C#", "C++", "Python", HTML/CSS]
-  Specialties: ["QA Automation", "AI Systems", "Gameplay Programming"]
+## Away From the Keyboard
 
-Creative_Tools:
-  Design: ["Adobe Creative Suite", "Figma"]
-  Photography: ["Lightroom", "Capture One", "Studio Lighting"]
-  Production: ["JIRA", "Confluence", "Git", "Perforce"]
+I photograph people and places, follow competitive video games more closely than is strictly necessary, and care a lot about the communities that form around games. At USC, I served as president of the Makers of Entertaining Games Association, programmed with Open Alpha, designed for esports and campus organizations, and directed cultural production with Troy Philippines.
 
-Leadership_Roles:
-  Current:
-    - "QA Lead - Glorgo's Microplastics Mine"
-    - "President - Makers of Entertaining Games Association" 
-    - "Programmer - Open Alpha"
-    - "Player - USC Competitive Overwatch Team"
-    - "Graphic Designer: USC Esports"
-    - "Graphics Chair: SC Live"
-    - "Director of Media: Academic Culture Assembly"
-```
-
-## Featured Projects & Leadership
-
-### **Creative Technology Projects**
-```python
-projects = {
-    "scythe_of_sidereal": {
-        "role": "Lead Developer",
-        "description": "2D action game with moral choice system",
-        "tech": ["Unity", "C#", "AI Behavior", "Narrative Design"],
-        "creative_elements": ["Visual Storytelling", "UI/UX Design"]
-    },
-    "mega_presidency": {
-        "role": "Presidentr", 
-        "description": "USC's premier game development community",
-        "impact": "speaker panels, monthly workshops, game jams",
-        "focus": "Bridging technical and creative game development"
-    }
-}
-```
-
-## Career Compass
-
-```rust
-// My development philosophy
-trait CreativeTechnologist {
-    fn merge_art_and_tech(&self) -> Innovation;
-    fn build_community(&self) -> Impact;
-    fn push_boundaries(&self) -> Progress;
-}
-
-impl CreativeTechnologist for JoshuaGuico {
-    fn current_focus() -> &'static str {
-        "Creating experiences that resonate through technical excellence and creative vision"
-    }
-    
-    fn unique_value() -> Vec<&'static str> {
-        vec![
-            "Technical depth in game development",
-            "Creative eye for design and photography", 
-            "Proven leadership in gaming communities",
-            "Competitive understanding of player experience"
-        ]
-    }
-}
-```
-
-## Gaming DNA
-
-### **Competitive Spirit**
-- **USC Overwatch Team**: Competitive player understanding high-level gameplay
-- **Stream Analysis**: Studying top players and content creators
-- **Player Psychology**: Understanding what makes games engaging and rewarding
-
-### **Creative Vision**
-- **Photography Background**: Composition, lighting, and visual storytelling
-- **Design Sensibility**: UI/UX that enhances player experience  
-- **Narrative Understanding**: Games as interactive storytelling medium
-
-## Collaboration Opportunities
-
-I'm passionate about projects that exist at the intersection of:
-- **Technology & Art** - Where code enables creativity
-- **Competition & Community** - Building spaces for gamers to thrive  
-- **Innovation & Execution** - Bold ideas backed by technical excellence
-
-<div align="center">
-  <h2> Connect with Me</h2>
-  <p>Let's connect and collaborate!</p>
-
-  | LinkedIn | GitHub | Email | Discord | Instagram |
-  | --- | --- | --- | --- | --- |
-  | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoshua-guico&subtitle=@joshua-guico&size=square)](https://www.linkedin.com/in/joshua-guico) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fsuvnset&subtitle=%2Fsuvnset&size=square)](https://github.com/suvnset) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=jshguico&size=square)](mailto:jshguico@gmail.com) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F486210659961536514&subtitle=Discord&size=square)](https://discord.com/users/486210659961536514) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fjguicoo%2F&subtitle=@jguicoo&size=square)](https://www.instagram.com/jguicoo/) |
-</div>
-
-## Beyond the Code
-
-```markdown
-When I'm not coding or leading teams, you'll find me:
-- Capturing moments through my camera lens
-- Competing with USC Overwatch or analyzing pro streams  
-- Designing visuals that communicate and inspire
-- Hanging out with the USC Filipino community
-- Pushing the boundaries of what games can be
-```
-
----
+Those experiences changed how I work. Good development is not just writing the right code; it is making the next person's job clearer, listening carefully during a playtest, and knowing when a team needs a tool instead of another meeting.
 
 <div align="center">
 
-**Let's build the future of interactive experiences together!** 
+**Currently interested in software engineering, gameplay engineering, QA engineering, graphic design, and technical production.**
 
-*Open to internships, creative collaborations, and opportunities at the intersection of technology and art*
-
-![Creative Technologist](https://img.shields.io/badge/Creative-Technologist-blue?style=for-the-badge&logo=game-controller&logoColor=white)
-![Game Developer](https://img.shields.io/badge/Game-Developer-purple?style=for-the-badge&logo=unity&logoColor=white)
-![Community Leader](https://img.shields.io/badge/Community-Leader-green?style=for-the-badge&logo=people&logoColor=white)
+[Explore the portfolio](https://suvnset.github.io) | [See my repositories](https://github.com/suvnset?tab=repositories)
 
 </div>
