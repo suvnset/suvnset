@@ -11,10 +11,6 @@ Incoming M.S. Computer Science (Game Development) student
 
 </div>
 
-My GitHub is where gameplay systems, QA tools, analytics experiments, and the occasional deeply specific side project end up. I like code that holds up under pressure, tools that make a team less frustrated, and games with enough personality to be remembered.
-
-Some weeks that means debugging a Unity scene. Other weeks, it means improving a playtest process, designing graphics, photographing a show, or writing production notes people can actually use.
-
 ## What I'm Working On
 
 - Building **[PlaytestIQ](https://github.com/suvnset/playtestiq)**, a telemetry and analytics platform that helps game teams understand player sessions, repeated failures, progression, and playtest trends.
