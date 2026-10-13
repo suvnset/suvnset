@@ -4,8 +4,8 @@
 
 **Software engineer, gameplay programmer, QA engineer, and occasional keeper of very complicated spreadsheets.**
 
-Recent USC Computer Science (Games) graduate  
-Incoming M.S. Computer Science (Game Development) student
+Recent USC B.S. Computer Science (Games) graduate  
+Current Cal State LA M.S. Computer Science student
 
 [Portfolio](https://suvnset.github.io) | [LinkedIn](https://www.linkedin.com/in/joshua-guico) | [Email](mailto:jshguico@gmail.com)
 
